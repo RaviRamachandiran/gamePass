@@ -1,4 +1,10 @@
 {
-"Useranme":"Ravi",
-"Couponcode":"#ab321"
+  "response":"Success",
+  "errorCode":100,
+  "data":{
+          "gamePass":true,
+          "competitiveMode":true,
+          "couponUniqueId":"#32345",
+          "Name":"Raina Ravi"
+  }
 }
